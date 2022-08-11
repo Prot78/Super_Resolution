@@ -5,4 +5,4 @@ Data have been taken by https://press.liacs.nl/mirflickr/mirdownload.html and ab
 I have run the code on Google Colab using 10 and 20 epochs. Each epoch last around 15 minutes after utilizing the available free GPU service.
 Here the results:
 
-![hello](images for Github/Slide1.jpeg).
+![hello](images_for_Github/Slide1.jpeg).
