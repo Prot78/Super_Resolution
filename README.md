@@ -4,5 +4,8 @@
 Data have been taken by https://press.liacs.nl/mirflickr/mirdownload.html and about 5000 images have split between train and test in order to optimize the the protocol
 I have run the code on Google Colab using 10 and 20 epochs. Each epoch last around 15 minutes after utilizing the available free GPU service.
 Here the results:
-
 ![hello](images_for_Github/10epochs.jpeg).
+Fig1. Test image after 10 epochs training
+
+![hello](images_for_Github/20epochs.jpeg).
+Fig2. Test image after 10 epochs training
