@@ -22,6 +22,7 @@ SRGAN will have to be run on an higher number of trained images and by increasin
 ### Medical images
 SRGAN was also tested on medical images of a healthy brain model. After training the model on 5000 images, below a sample of the testing phase result.
 
+![hello](images_for_Github/brain.jpeg)
 
 
 
