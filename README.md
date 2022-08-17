@@ -5,11 +5,20 @@ Data have been taken by https://press.liacs.nl/mirflickr/mirdownload.html and ab
 I have run the code on Google Colab using 10 and 20 epochs. Each epoch last around 15 minutes after utilizing the available free GPU service.
 Here the results:
 
-![hello](images_for_Github/10epochs.jpeg).      ![hello](images_for_Github/20epochs.jpeg).
+![hello](images_for_Github/10epochs.jpeg).
 
-______Fig1. Test images after 10 epochs training.__________________Fig2. Test images after 20 epochs training  
+Fig1. Test images after 10 epochs training. 
+
+
+![hello](images_for_Github/20epochs.jpeg).
+
+Fig2. Test images after 20 epochs training
 
 
 SRGAN will have to be run on an higher number of trained images and by increasing epochs if better results are needed.
+
+SRGAN was also tested on medical images of a healthy brain model. After training the model on 5000 images, below a sample of the testing phase result.
+
+
 
 
