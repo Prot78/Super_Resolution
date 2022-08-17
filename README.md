@@ -17,6 +17,9 @@ Fig2. Test images after 20 epochs training
 
 SRGAN will have to be run on an higher number of trained images and by increasing epochs if better results are needed.
 
+
+
+### Medical images
 SRGAN was also tested on medical images of a healthy brain model. After training the model on 5000 images, below a sample of the testing phase result.
 
 
